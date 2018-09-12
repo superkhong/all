@@ -1,0 +1,6 @@
+[submodule "s/m/add"]
+	path = s/m/add
+	url = https://github.com/superkhong/add1.git
+[submodule "s/m/modify"]
+	path = s/m/modify
+	url = https://github.com/superkhong/modify1.git
